@@ -6,9 +6,11 @@ It is a basic python script calculator app.
 
 Imported tkinter in python.
 
+
 ### Setup instructions:- 
 
 Firstly, download the python script in your local computer and run it, it will work successfully.
+
 
 ### Detailed explanation of script, if needed:- 
 
@@ -16,9 +18,18 @@ As you can see, nowadays calculating big-big numbers is very tough or it may tak
 
 You can use standard calculator by default and you can go to file and change standard calculator to scientific calculator for solving complex problems like the problems of logarithm,trignometric problems,exponential problems,etc.
 
+
 ### Screenshots:-
 
-(Images/Image1.png),(Images/Image2.png),(Images/Image3.png),(Images/Image4.png)
+<p align="center"><img src="https://github.com/prathimacode-hub/MLH-INIT-2022/blob/main/Build%20A%20Calculator/Images/Image1.png">"</p>
+<br>
+<p align="center"><img src="https://github.com/prathimacode-hub/MLH-INIT-2022/blob/main/Build%20A%20Calculator/Images/Image2.png">"</p>
+<br>
+<p align="center"><img src="https://github.com/prathimacode-hub/MLH-INIT-2022/blob/main/Build%20A%20Calculator/Images/Image3.png">"</p>
+<br>
+<p align="center"><img src="https://github.com/prathimacode-hub/MLH-INIT-2022/blob/main/Build%20A%20Calculator/Images/Image4.png">"</p>
+<br>
+
 
 ### Output:- 
 
