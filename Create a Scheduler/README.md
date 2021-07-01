@@ -5,4 +5,4 @@ Finds the best time to make a reddit post.
 
 ![terminal](https://github.com/prathimacode-hub/MLH-INIT-2022/blob/main/Create%20a%20Scheduler/Examples/terminal1.png)
 
-![heatmap](./examples/heatmap.png)
+![heatmap](https://github.com/prathimacode-hub/MLH-INIT-2022/blob/main/Create%20a%20Scheduler/Examples/heatmap.png)
