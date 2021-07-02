@@ -1,4 +1,4 @@
-# Simple-Python-Twitch-IRC-Bot
+# Twitch Bot
 
 A simple IRC-bot for twitch.tv written in python!
 
