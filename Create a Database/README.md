@@ -24,5 +24,4 @@ This My Routine Database System is a desktop application where we can update our
 ## Sample output
 ![](Images/view_all.PNG)
 ![](Images/Search.PNG)
-## Contributor
-#### @LasyaGanesuni
+
