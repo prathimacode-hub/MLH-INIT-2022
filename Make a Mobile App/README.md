@@ -1,4 +1,4 @@
-# **Creating a Kivy Application**
+# **Make a mobile app using Kivy Application**
 
 Source Learning: https://realpython.com/mobile-app-kivy-python/
 
