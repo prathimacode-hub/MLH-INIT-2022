@@ -47,6 +47,5 @@ when you input hours and minutues for alarm to ring at that respective time alar
 ***Screenshot of the output:***
 <p align="center"><img src="https://github.com/prathimacode-hub/Awesome_Python_Scripts/blob/main/BasicPythonScripts/Alarm%20Clock/Images/Screenshot.png?raw=true">"</p>
 <br>
-Name of Author: Pratima Kushwaha
 
 
