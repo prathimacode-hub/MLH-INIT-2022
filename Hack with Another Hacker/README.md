@@ -26,12 +26,3 @@ It can extract tweets from a specific user or using a specifc keyword.
 3. Run the code.
 
 ------------
-
-## Output:
-![Covid csv file img](https://github.com/pragyakhanna11/Awesome_Python_Scripts/blob/dc78bbbc72cde791ffd1cc608fe7458043a1c31c/APIScripts/Twitter%20API/Images/covid_csv.png)
-
-
-------------
-
-## Author:
-Pragya Khanna
