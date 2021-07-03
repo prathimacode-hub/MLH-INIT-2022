@@ -60,5 +60,4 @@ print(data)
 
 <img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/Covid%20Cases/Images/corona2.png">
 
-## Contributor
-<a href="https://github.com/Umesh-01">Umesh Singh</a>
+
