@@ -47,17 +47,10 @@ print(data)
 
 ## Screenshots
 
-#### In CLI
-
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/Covid%20Cases/Images/corona3.png">
-
-
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/Covid%20Cases/Images/corona4.png">
-
 #### In PyCharm
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/Covid%20Cases/Images/corona1.png">
+<img src="https://github.com/prathimacode-hub/MLH-INIT-2022/blob/main/Use%20Web%20Scraping/Images/corona1.png">
 
-<img src="https://github.com/Umesh-01/Awesome_Python_Scripts/blob/patch-4/WebScrapingScripts/Covid%20Cases/Images/corona2.png">
+
 
 
